@@ -1,4 +1,4 @@
-# Factorial
+# Factorials Calculator
 
 ##### A web page that computes factorials using recursion, a programming technique in which a method calls itself. (9/8/15)
 
@@ -11,7 +11,7 @@ A factorial is an operator that multiplies a number by all of the positive integ
 ## Specs
 * If the number is less than 0, reject it by returning -1.
 * If the number is 0, its factorial is 1.
-* The factorial recursion stops until the value is 1.
+* It multiplies a number by all of the positive integers less than that number.
 
 ## Setup
 
