@@ -17,8 +17,6 @@ A factorial is an operator that multiplies a number by all of the positive integ
 
 * Clone the project using the link provided on Github.
 * Run composer install in Terminal from the project root folder.
-* Start the PHP server from Terminal in the /web folder.
-* Open a web browser and navigate to "localhost:8000".
 
 ## Technologies Used
 
