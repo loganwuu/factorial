@@ -1,7 +1,7 @@
 describe('factorial', function() {
     // If the number is less than 0, reject it.
     it("is invalid number if the number entered is less than 0", function() {
-        expect(factorial(-1)).to.equal(-1);
+        expect(factorial(-1)).to.equal("error");
     });
 
     // If the number is 0, its factorial is 1.

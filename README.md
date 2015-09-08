@@ -9,9 +9,9 @@
 A factorial is an operator that multiplies a number by all of the positive integers less than that number. For example, 5! = 5 * 4 * 3 * 2 * 1 = 120. Also, by definition, 0! = 1.
 
 ## Specs
-* If the number is less than 0, reject it by returning -1.
+* If the number is less than 0, reject it by returning string "error".
 * If the number is 0, its factorial is 1.
-* It multiplies a number by all of the positive integers less than that number.
+* It multiplies a number by all of the positive integers less than that number recursively until it reduces to 1.
 
 ## Setup
 
